@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\src\mengajar_221_p_mobile-Menggunakan-API-localhost\build\windows\CMakeFiles\aa73beeaa08dbb510c959efc7c263df1\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8AFC3BDC-5280-31DB-8B25-7B100BABC2D6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

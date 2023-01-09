@@ -1,0 +1,10 @@
+^C:\SRC\MENGAJAR_221_P_MOBILE-MENGGUNAKAN-API-LOCALHOST\BUILD\WINDOWS\CMAKEFILES\5F4ED28464712A5EF0EAC0B6B3D6C4C2\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

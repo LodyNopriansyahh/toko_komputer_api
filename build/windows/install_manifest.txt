@@ -1,0 +1,9 @@
+C:/src/mengajar_221_p_mobile-Menggunakan-API-localhost/build/windows/runner/Debug/data/icudtl.dat
+C:/src/mengajar_221_p_mobile-Menggunakan-API-localhost/build/windows/runner/Debug/flutter_windows.dll
+C:/src/mengajar_221_p_mobile-Menggunakan-API-localhost/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/src/mengajar_221_p_mobile-Menggunakan-API-localhost/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/src/mengajar_221_p_mobile-Menggunakan-API-localhost/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/src/mengajar_221_p_mobile-Menggunakan-API-localhost/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/src/mengajar_221_p_mobile-Menggunakan-API-localhost/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/src/mengajar_221_p_mobile-Menggunakan-API-localhost/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/src/mengajar_221_p_mobile-Menggunakan-API-localhost/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

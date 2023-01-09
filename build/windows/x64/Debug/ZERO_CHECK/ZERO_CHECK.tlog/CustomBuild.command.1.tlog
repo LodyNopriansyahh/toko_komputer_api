@@ -1,0 +1,10 @@
+^C:\SRC\MENGAJAR_221_P_MOBILE-MENGGUNAKAN-API-LOCALHOST\BUILD\WINDOWS\CMAKEFILES\5F4ED28464712A5EF0EAC0B6B3D6C4C2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/src/mengajar_221_p_mobile-Menggunakan-API-localhost/windows -BC:/src/mengajar_221_p_mobile-Menggunakan-API-localhost/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/src/mengajar_221_p_mobile-Menggunakan-API-localhost/build/windows/mengajar_221_p_mobile.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
